@@ -1,0 +1,41 @@
+body{
+	height: 100%
+	width:100%;
+	margin:0;
+	padding:0;
+	background: url(5.jpg) no-repeat;
+	background-size:cover;
+}
+.box{
+	width: 450px;
+	background: rgba(0,0,0,0.5);
+	padding: 40px;
+	text-align:center;
+	margin: auto;
+	margin-top: 5%;
+	color: white;
+	font-family: 'new times roman',new times roman;
+}
+.box-img{
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+}
+.box h1{
+	font-size: 30px;
+	letter-spacing: 4px
+	font-weight: 100; 
+}
+.box h4{
+	font-size: 20px;
+	letter-spacing:3px;
+	font-weight:100;
+}
+.box p{
+	text-align: justify;
+}
+.box form{
+	text-align: left;
+	font-style: italic;
+	font-family: new times roman,new times roman;
+}
