@@ -1,7 +1,7 @@
 body{
 	margin:0;
 	padding:0;
-	background: url(5.jpg);
+	background: url(5.jpg) no-repeat;
 	background-size:cover;
 }
 .box{
@@ -17,7 +17,7 @@ body{
 .box-img{
 	border-radius: 100%;
 	width: 200px;
-	height: 200px;
+	height: auto;
 }
 .box h1{
 	font-size: 30px;
